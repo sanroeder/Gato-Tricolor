@@ -1,0 +1,61 @@
+Gatos Tricolores
+
+Os gatos tricolores (calico) apresentam pelagem com três cores: preto, laranja/vermelho e branco. Cerca de 99,9% são fêmeas, pois a genética das cores está ligada ao cromossomo X - as fêmeas têm dois cromossomos X, podendo expressar ambas as cores. São considerados símbolos de sorte em várias culturas, especialmente no Japão. Embora não haja comprovação científica definitiva, muitos acreditam que possuem personalidades independentes, leais e comunicativas.
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do Animal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nome do Animal</h1>
+        
+        <img src="imagem-do-animal.jpg" alt="Foto do Animal">
+        
+        <h2>Sobre o Animal</h2>
+        <p>Aqui você coloca informações gerais sobre o animal.</p>
+        
+        <h2>Características</h2>
+        <ul>
+            <li>Característica 1</li>
+            <li>Característica 2</li>
+            <li>Característica 3</li>
+        </ul>
+        
+        <h2>Curiosidades</h2>
+        <p>Algumas curiosidades interessantes sobre o animal.</p>
+        
+        <h2>Cuidados</h2>
+        <p>Informações sobre como cuidar deste animal de estimação.</p>
+        
+        <footer>
+            <p>Criado por [Seu Nome] - 2025</p>
+        </footer>
+    </div>
+
+
+
+
+
