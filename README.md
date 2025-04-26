@@ -1,4 +1,4 @@
-Gato Tricolor
+
 Os gatos tricolores, também conhecidos como "calico" ou "tortoiseshell com branco", são felinos com uma pelagem muito especial e distintiva que apresenta três cores: geralmente preto, laranja (ou vermelho) e branco. Essas características de pelagem são fascinantes não apenas por sua beleza, mas também por sua genética única.
 
 Características genéticas
